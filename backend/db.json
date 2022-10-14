@@ -8,17 +8,12 @@
     {
       "id": 2,
       "name": "Notebook Mac Pro",
-      "price": 12000.89
+      "price": "12000.90"
     },
     {
       "id": 3,
       "name": "Samsung S20+",
       "price": 5000.89
-    },
-    {
-      "name": "Teste",
-      "price": "10.2",
-      "id": 4
     }
   ]
 }
